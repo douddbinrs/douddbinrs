@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Adham 👋
 
-<!--
-**douddbinrs/douddbinrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mechatronics Technology Undergrad | Systems Engineering Enthusiast**
 
-Here are some ideas to get you started:
+I'm an undergraduate student focusing on building a solid engineering and technical mindset before relying on tools. Passionate about low-level programming, Linux architecture, and embedded systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ What I'm Currently Working On
+
+- **Systems & Embedded:** Building robust applications using **Rust** (focusing on `no_std` environments) and Embedded **C**.
+- **Problem Solving:** Strengthening Data Structures and Algorithms (DSA) for competitive programming (ICPC).
+- **Linux Environment:** Daily driving **CachyOS (Arch)**, diving deep into system configurations, bootloaders, and tiling window managers.
+
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** Rust, C/C++, Python (Scripting)
+- **OS & Tools:** Linux (Arch/CachyOS), Git/GitHub CLI, GNU Stow
+- **Hardware:** Microcontrollers (Arduino), Sensors, Actuators
