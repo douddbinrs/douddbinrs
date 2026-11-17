@@ -13,5 +13,5 @@ I'm an undergraduate student focusing on building a solid engineering and techni
 ### 🛠️ Tech Stack & Tools
 
 - **Languages:** Rust, C/C++, Python (Scripting)
-- **OS & Tools:** Linux (Arch/CachyOS), Git/GitHub CLI, GNU Stow
-- **Hardware:** Microcontrollers (Arduino), Sensors, Actuators
+- **OS & Tools:** Linux (Arch/CachyOS), Git/GitHub CLI, Dual-booted Windows
+- **Hardware:** Microcontrollers (Arduino), ESP32, Sensors, Actuators
